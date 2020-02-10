@@ -1,0 +1,22 @@
+header{
+    font-family: arial, sans-serif;
+    font-size: 20px;
+    background-color:white
+}
+
+body {
+    margin: 25px;
+    background-color:grey;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+h3{
+    background-color: teal;
+    font-size: 16px;
+}
+
+h4{
+    background-color: tomato;
+    font-size: 16px;
+}
